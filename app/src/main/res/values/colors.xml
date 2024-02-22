@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="BLACK">#FF000000</color>-->
+<!--    <color name="WHITE">#FFFFFFFF</color>-->
+    <color name="RED">#FFF44336</color>
+<!--    <color name="ORANGE">#FF9800</color>-->
+<!--    <color name="YELLOW">#FFFFEB3B</color>-->
+<!--    <color name="GREEN">#FF4CAF50</color>-->
+    <color name="BLUE">#FF3F51B5</color>
+
+<!--    <color name="GRAY">#FF68655F</color>-->
+<!--    <color name="PINK">#FFE46691</color>-->
+<!--    <color name="PURPLE">#FF9C27B0</color>-->
+<!--    <color name="BROWN">#FFF63410E</color>-->
+
+
+
+</resources>

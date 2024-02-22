@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MADFinal</string>
+
+        <string-array name="color_names">
+            <item>RED</item>
+<!--            <item>ORANGE</item>-->
+<!--            <item>YELLOW</item>-->
+<!--            <item>GREEN</item>-->
+            <item>BLUE</item>
+<!--            <item>WHITE</item>-->
+<!--            <item>BLACK</item>-->
+<!--            <item>GRAY</item>-->
+<!--            <item>PINK</item>-->
+<!--            <item>PURPLE</item>-->
+<!--            <item>BROWN</item>-->
+        </string-array>
+
+</resources>
